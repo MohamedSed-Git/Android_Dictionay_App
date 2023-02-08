@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nitin/Desktop/semester 3/Mobile graphical/OwlbotDictionary/app/src/main/res/layout/activity_information.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nitin/Desktop/semester 3/Mobile graphical/OwlbotDictionary/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nitin/Desktop/semester 3/Mobile graphical/OwlbotDictionary/app/src/main/res/layout/fragment_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nitin/Desktop/semester 3/Mobile graphical/OwlbotDictionary/app/src/main/res/layout/item_itemview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nitin/Desktop/semester 3/Mobile graphical/OwlbotDictionary/app/src/main/res/layout/show_definition.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
